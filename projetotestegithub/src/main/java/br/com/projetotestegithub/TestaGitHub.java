@@ -1,0 +1,8 @@
+package br.com.projetotestegithub;
+
+public class TestaGitHub {
+	
+	private String nome;
+	private String sobrenome;
+
+}
